@@ -52,6 +52,6 @@ Configure CI/CD for version control
     <img src="https://avatars0.githubusercontent.com/u/19730118?s=460&v=4" width="50" height="50">
   </a>
   <a href="https://dotcode.is">
-    <img src="https://avatars0.githubusercontent.com/u/19730118?s=460&v=4" width="50" height="50">
+    <img src="https://dotcode.is/images/logo_dark.svg" width="50" height="50">
   </a>
 </p>
