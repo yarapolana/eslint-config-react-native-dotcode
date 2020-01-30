@@ -14,7 +14,7 @@
     "url": "https://github.com/yarapolana/eslint-config-react-native-dotcode.git"
   },
   "bugs": {
-    "email": "https://github.com/yarapolana/eslint-config-react-native-dotcode/issues"
+    "url": "https://github.com/yarapolana/eslint-config-react-native-dotcode/issues"
   },
   "homepage": "https://github.com/yarapolana/eslint-config-react-native-dotcode",
   "devDependencies": {
