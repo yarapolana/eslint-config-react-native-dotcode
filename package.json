@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-react-native-dotcode",
+  "version": "1.0.0",
+  "description": "Eslint configuration for projects created by Dotcode.is",
+  "main": "index.js",
+  "author": "Yara Polana <yara@dotcode.is>",
+  "license": "MIT"
+}
