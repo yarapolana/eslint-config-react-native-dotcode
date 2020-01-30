@@ -43,3 +43,15 @@ module.exports = {
 ### Next step:
 
 Configure CI/CD for version control
+
+
+### Authors:
+
+<p>
+  <a href="https://github.com/yarapolana">
+    <img src="https://avatars0.githubusercontent.com/u/19730118?s=460&v=4" width="50" height="50">
+  </a>
+  <a href="https://dotcode.is">
+    <img src="https://avatars0.githubusercontent.com/u/19730118?s=460&v=4" width="50" height="50">
+  </a>
+</p>
