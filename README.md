@@ -1,13 +1,16 @@
-<div align="center"># ✏️eslint-config-react-native-dotcode</div>
+<h1 align="center"> ✏️eslint-config-react-native-dotcode </h1>
+<h3 align="center">Eslint configuration for React Native projects</h3>
 
-My eslint configuration for React Native projects. This is my first npm package to help me lint my React Native projects. This has not been tested in production yet so use with caution.
 
 <p align="center">
-[![version](https://img.shields.io/github/package-json/v/yarapolana/eslint-config-react-native-dotcode)](https://img.shields.io/github/package-json/v/yarapolana/eslint-config-react-native-dotcode)
 
-[![license](https://img.shields.io/github/license/yarapolana/eslint-config-react-native-dotcode)](https://img.shields.io/github/license/yarapolana/eslint-config-react-native-dotcode)
+<img src="https://img.shields.io/github/package-json/v/yarapolana/eslint-config-react-native-dotcode.svg">
+<img src="https://img.shields.io/github/license/yarapolana/eslint-config-react-native-dotcode.svg">
 
 </p>
+
+<p>This is my first npm package to help lint React Native projects.</p>
+
 
 ## Usage
 
@@ -27,16 +30,16 @@ In `babel.config.js` add the following
 
 ```json
 module.exports = {
-  ...
+  "..."
   "plugins": [
     [
-      "babel-plugin-root-import", {rootPathSuffix: 'src'},
+      "babel-plugin-root-import", {"rootPathSuffix": "src"},
     ],
   ],
-  ...
+  "..."
 }
 ```
 
-# Next step:
+### Next step:
 
 Configure CI/CD for version control
